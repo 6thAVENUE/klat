@@ -1,0 +1,43 @@
+{
+	"title": "KLAT Cafe",
+	"company": "KLAT",
+  "keypersonnel": "",
+  "address": {
+		"street": "621 S Western Ave.",
+		"unit": "#101",
+		"city": "Los Angeles",
+		"State": "CA",
+		"zipcode": "90005"
+	},
+	"website": "www.klatcafe.com",
+  "email": "info@klatcafe.com",
+  "telephone": "213-674-7776",
+	"sns": [
+		{
+			"name": "facebook",
+			"url": "https://www.facebook.com/klatcafe/",
+			"icon": "img/sns-facebook.png"
+		},
+		{
+			"name": "YouTube",
+			"url": "",
+			"icon": "img/sns-youtube.png"
+		},
+		{
+			"name": "Instagram",
+			"url": "",
+			"icon": "img/sns-instagram.png"
+		},
+		{
+			"name": "twitter",
+			"url": "",
+			"icon": "img/sns-twitter.png"
+		},
+		{
+			"name": "yelp",
+			"url": "",
+			"icon": "img/sns-yelp.png"
+		}
+	],
+	"copyrights": "Copyright © 2016 Klatcafe.com. All rights reserved."
+}

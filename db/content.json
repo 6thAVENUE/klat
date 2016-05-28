@@ -1,0 +1,371 @@
+{
+  "id": 1,
+  "title": "Welcome to Klat Cafe",
+  "nav": [
+    {
+      "display-name": "About",
+      "url": "#about-us",
+      "id": "btn-about-us"
+    },
+    {
+      "display-name": "Menu",
+      "url": "#menu",
+      "id": "btn-menu"
+    },
+    {
+      "display-name": "Coffees",
+      "url": "#coffees",
+      "id": "btn-coffees"
+    },
+    {
+      "display-name": "Beverages",
+      "url": "#other-beverages",
+      "id": "btn-beverages"
+    },
+    {
+      "display-name": "Contact",
+      "url": "#contact-us",
+      "id": "btn-contact-us"
+    }
+  ],
+  "sections": {
+    "intro": {
+      "title": "Face",
+      "slug": "face",
+      "logo": "img/klat-logo.png",
+      "bg": "img/intro-bg.jpg"
+    },
+    "about": {
+      "title": "About Us",
+      "slug": "about-us",
+      "slogan": "Art of Perfection",
+      "subtitle": "Conveniently enhance bleeding-edge initiatives.",
+      "article": "<p>Due to the popularity and increasing demand for brunch menu items in Koreatown, KLAT offers simple yet exquisite dishes all carefully crafted using the finest ingredients and fresh breads baked daily.</p><p>We take much pride in our coffee and work very closely with our roasters to ensure a premium cup of brew each and every time. Many hours were spent researching the art & science behind coffee to achieve that distinctive flavor, unique for KLAT.</p><p>The modern upscale interior with elegant touches of copper and green trees were designed to offer guests an exceptional and relaxing experience from dining to décor.</p>",
+      "photo": "img/about.jpg"
+    },
+    "menu": {
+      "title": "Menu",
+      "slug": "menu",
+      "categories": [
+        {
+          "category": "Sandwich&Panini",
+          "popup-slug": "panini-menu",
+          "description": "Our light sandwiches and paninis use fresh ingredients and daily baked breads. Each order comes with a side of vinaigrette salad and/or soup.",
+          "thumbnail": "img/menu_thumbnail_panini.jpg",
+          "button": "Discover More",
+          "photo": "img/menu-panini.jpg",
+          "items": [
+            {
+              "name": "Prosciutto Panini",
+              "description": "",
+              "ingredients": "Thin slices of prosciutto, fresh arugula, roasted bell pepper, mozzarella, tomato, and balsamic; grilled & pressed on ciabatta bread served with a light vinaigrette salad.",
+              "price": ""
+            },
+            {
+              "name": "Chicken Pesto Panini",
+              "description": "",
+              "ingredients": "Chicken marinated in pesto sauce, roasted pepper, tomato, butter lettuce, and mozzarella; grilled & pressed on ciabatta bread served with a light vinaigrette salad.",
+              "price": ""
+            },
+            {
+              "name": "BBLT Sandwich",
+              "description": "",
+              "ingredients": "Bacon, brie, lettuce, tomato, roasted bell pepper, and homemade aioli; grilled & on sour dough bread served with a light vinaigrette salad.",
+              "price": ""
+            },
+            {
+              "name": "Grilled Triple Cheese Sandwich",
+              "description": "",
+              "ingredients": "Muenster, brie, cheddar cheese on sour dough bread served with tomato soup.",
+              "price": ""
+            },
+            {
+              "name": "Turkey Sandwich",
+              "description": "",
+              "ingredients": "Lettuce, muenster cheese, tomato, avocado, aioli on sour dough bread.",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "category": "Egg-Select",
+          "popup-slug": "egg-select-menu",
+          "description": "From Benedicts, to omelets, to huevos rancheros; whether fried or poached, all our eggs are cooked to perfection adjoined with other ingredients for a savory flavor and a gorgeous presentation.",
+          "thumbnail": "img/menu_thumbnail_egg.jpg",
+          "button": "Discover More",
+          "photo": "img/menu-egg-select.jpg",
+          "items": [
+            {
+              "name": "Klat Benedict",
+              "description": "",
+              "ingredients": "Our popular Klat Benedict comes with two poached eggs, thin slices of prosciutto, tomato, spinach and hollandaise sauce served with a side of vinaigrette salad.",
+              "price": ""
+            },
+            {
+              "name": "Salmon Benedict",
+              "description": "",
+              "ingredients": "Two poached eggs, gravlax, spinach, red onions, capers, and hollandaise sauce served with a side of vinaigrette salad.",
+              "price": ""
+            },
+            {
+              "name": "Huevos Rancheros",
+              "description": "",
+              "ingredients": "Two sunny-side up eggs, prime short rib steak on top of a tortilla with beans, salsa, queso fresco, and crema fresco.",
+              "price": ""
+            },
+            {
+              "name": "California Omelet",
+              "description": "",
+              "ingredients": "Smoked bacon, fresh tomato, roasted pepper, green onion, avocado, sour cream, & cheddar cheese served with a side of herb seasoned potatoes.",
+              "price": ""
+            },
+            {
+              "name": "Spinach Omelet",
+              "description": "",
+              "ingredients": "Spinach, mushroom, sun-dried tomatoes, chives, and goat cheese served with a side of herb seasoned potatoes.",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "category": "Salad",
+          "popup-slug": "salad-menu",
+          "description": "All of our salads are fresh and served in large portions with our house made dressings.",
+          "thumbnail": "img/menu_thumbnail_salad.jpg",
+          "button": "Discover More",
+          "photo": "img/menu-salad.jpg",
+          "items": [
+            {
+              "name": "Stegg Salad",
+              "description": "",
+              "ingredients": "Prime short rib, sunny-side up egg topped on frisee & spinach with a side of grilled vegetables.",
+              "price": ""
+            },
+            {
+              "name": "Shrimp Bibb Salad",
+              "description": "",
+              "ingredients": "Sautéed shrimp, butter lettuce, shaved radish, chives tossed in green goddess dressing.",
+              "price": ""
+            },
+            {
+              "name": "Chicken Caesar Salad",
+              "description": "",
+              "ingredients": "Little gem lettuce and crostini mixed with house made Caesar dressing.",
+              "price": ""
+            },
+            {
+              "name": "Quinoa Salad",
+              "description": "",
+              "ingredients": "Red quinoa, roasted beet, lacinato kale, dried currant, toasted pecan and lemon vinaigrette dressing.",
+              "price": ""
+            },
+            {
+              "name": "Harvest Salad",
+              "description": "",
+              "ingredients": "Frisee, spinach, seasonal fruits, candied pecan, and blue cheese tossed in a light balsamic vinaigrette dressing.",
+              "price": ""
+            },
+            {
+              "name": "Baby Arugula",
+              "description": "",
+              "ingredients": "Red Onion, cherry tomato, parmesan cheese, anchovy, and crostini tossed with a roasted garlic vinaigrette dressing.",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "category": "Waffles",
+          "popup-slug": "waffles-menu",
+          "description": "A great batter and precise baking time is the key to achieving that perfect waffle - crispy on the outside, soft and fluffy on the inside.  We use seasonal berries and honey roast the pecans in-house.",
+          "thumbnail": "img/menu_thumbnail_waffles.jpg",
+          "button": "Discover More",
+          "photo": "img/menu-waffles.jpg",
+          "items": [
+            {
+              "name": "Honey Nut",
+              "description": "",
+              "ingredients": "Banana slices, candied pecan, and honey whipped cream.",
+              "price": ""
+            },
+            {
+              "name": "Berry Berries",
+              "description": "",
+              "ingredients": "Fresh seasonal berries with lemon custard and powdered sugar.",
+              "price": ""
+            },
+            {
+              "name": "Healthy Nut",
+              "description": "",
+              "ingredients": "Baby kale, ricotta cheese, dried cranberry, candied pecan topped with honey.",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "category": "Sweet&nbsp;Tooth",
+          "popup-slug": "sweet-tooth-menu",
+          "description": "French toast, bread pudding, maple syrup, and berries. Top it off with our rich and creamy house made ice creams!",
+          "thumbnail": "img/menu_thumbnail_sweet.jpg",
+          "button": "Discover More",
+          "photo": "img/menu-sweet-tooth.jpg",
+          "items": [
+            {
+              "name": "Hand Crafted Ice Cream",
+              "description": "",
+              "ingredients": "Vanilla / chocolate served with fruits",
+              "price": ""
+            },
+            {
+              "name": "Brioche French Toast",
+              "description": "",
+              "ingredients": "Topped with seasonal berries, banana & maple syrup or honey",
+              "price": ""
+            },
+            {
+              "name": "House Made Bread Pudding",
+              "description": "",
+              "ingredients": "Sautéed bananas, nutella & topped with vanilla ice cream",
+              "price": ""
+            }
+          ]
+        },
+        {
+          "category": "Specialties",
+          "popup-slug": "specialties-menu",
+          "description": "Some of our ‘special’ menu includes steak, pastas and a few popular Asian dishes and our always changing, soup du jour (tomato, chicken quinoa, cream of asparagus, *clam chowder).",
+          "thumbnail": "img/menu_thumbnail_misc.jpg",
+          "button": "Discover More",
+          "photo": "img/menu-miscellaneous.jpg",
+          "items": [
+            {
+              "name": "Prime Rib-eye Steak (7oz)",
+              "description": "",
+              "ingredients": "Served with roasted potatoes & grilled vegetables",
+              "price": ""
+            },
+            {
+              "name": "Shrimp & Asparagus Linguini",
+              "description": "",
+              "ingredients": "Sautéed shrimp, asparagus, & garlic mixed in a spicy asparagus cream sauce.",
+              "price": ""
+            },
+            {
+              "name": "Whiting Roe Linguini",
+              "description": "",
+              "ingredients": "Sautéed with garlic and shallots in a white wine sauce.",
+              "price": ""
+            },
+            {
+              "name": "Spaghetti Bolognese",
+              "description": "",
+              "ingredients": "Beef & pork tomato meat sauce, extra virgin olive oil & parmasan cheese.",
+              "price": ""
+            },
+            {
+              "name": "Rib-Eye Kimchi Fried Rice",
+              "description": "",
+              "ingredients": "Fried in a wok & served with steamed egg in a skillet.",
+              "price": ""
+            },
+            {
+              "name": "Shrimp & Bacon Fried Rice",
+              "description": "",
+              "ingredients": "Bacon, asparagus, peas, green onion fried with scrambled eggs.",
+              "price": ""
+            },
+            {
+              "name": "Baked Sweet Potato (2 halves)",
+              "description": "",
+              "ingredients": "1. Spinach, Mushroom, cheddar cheese, bacon 2. Kimchi, cheese, chives",
+              "price": ""
+            }
+          ]
+        }
+      ]
+    },
+    "coffees": {
+      "title": "Coffees",
+      "slug": "coffees",
+      "bg": "img/coffees-bg.jpg",
+      "photo": "img/coffees-typography.png",
+      "description": "Coffee tastes can vary depending on the region they’re grown in. These unique flavor characteristics can derive from many factors, including the climate, altitude, ripeness of the fruit, washing method, and the sole genetics of the plant (Arabica or Robusta).",
+      "categories": [
+        {
+          "category": "Ethiopia",
+          "popup-slug": "ethiopia-coffees",
+          "photo": "img/coffees-ethiopia.jpg",
+          "description": "Coffee originated in Ethiopia. Ethiopia is the only country in which coffee is wildly grown, which makes the flavor profile extremely diverse. These beans are strong, fragrant-rich and full-bodied flavors."
+        },
+        {
+          "category": "Guatemala",
+          "popup-slug": "guatemala-coffees",
+          "photo": "img/coffees-guatemala.jpg",
+          "description": "Guatemalan coffee traditionally exhibits high malic acidity, caramel, and clean cups with a ton of sweetness. These coffees are usually very balanced with a good mixture of smooth sweetness and some tart, fruity acidity. They are often described as having a “clean” flavor."
+        },
+        {
+          "category": "Indonesia",
+          "popup-slug": "indonesia-coffees",
+          "photo": "img/coffees-indonesia.jpg",
+          "description": "Asian coffees tend to be earthier and darker than most other blends. The beans are less acidic, more complex and at times even savory."
+        },
+        {
+          "category": "Brazil",
+          "popup-slug": "brazil-coffees",
+          "photo": "img/coffees-brazil.jpg",
+          "description": "Brazil is the world’s largest coffee producer and provides 25 percent of the United States’ coffee beans. With a relatively mild and light taste, Brazilian coffee has a less-clean after taste and is more chocolaty and a little creamier."
+        },
+        {
+          "category": "Columbia",
+          "popup-slug": "columbia-coffees",
+          "photo": "img/coffees-columbia.jpg",
+          "description": "Colombian Coffees are commonly known to be big, rich, chocolaty coffees with often great acidity. More intense acidity and bigger velvety body are variations you might find going from south to north."
+        }
+      ]
+    },
+    "beverages": {
+      "title": "Other Beverages",
+      "slug": "other-beverages",
+      "bg": "img/coffees-bg.jpg",
+      "photo01": "img/beverages01.jpg",
+      "photo02": "img/beverages02.jpg",
+      "categories": [
+        {
+          "category": "Sparkling Strawberry Basil Lemonade",
+          "popup-slug": "sparkling-strawberry-basil-lemonade",
+          "photo": "",
+          "description": ""
+        },
+        {
+          "category": "Sparkling Mango Lemonade",
+          "popup-slug": "sparkling-mango-lemonade",
+          "photo": "",
+          "description": ""
+        },
+        {
+          "category": "Sparkling Mint Lemonade",
+          "popup-slug": "sparkling-mint-lemonade",
+          "photo": "",
+          "description": ""
+        },
+        {
+          "category": "Sparkling Peach Tea",
+          "popup-slug": "sparkling-peach-tea",
+          "photo": "",
+          "description": ""
+        },
+        {
+          "category": "Freshly Squeezed Orange Juice",
+          "popup-slug": "freshly-squeezed-orange-juice",
+          "photo": "",
+          "description": ""
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "slug": "contact-us",
+      "bg": "img/contact-bg.jpg",
+      "description": "Conveniently redefine distributed collaboration and idea-sharing via quality best practices. Distinctively revolutionize compelling niche markets rather than client-based customer."
+    }
+  }
+}
