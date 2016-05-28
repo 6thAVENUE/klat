@@ -31,3 +31,29 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+# NodeJS
+logs
+*.log
+npm-debug.log*
+node_modules
+jspm_packages
