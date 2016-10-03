@@ -182,6 +182,18 @@
           "photo": "img/menu-waffles.jpg",
           "items": [
             {
+              "name": "California Waffle",
+              "description": "",
+              "ingredients": "Avocado, Tomaoto, Hard bolied egg slices, topped with Baby argula.",
+              "price": ""
+            },
+            {
+              "name": "Breakfast Waffle",
+              "description": "",
+              "ingredients": "Bacon, Scrambled eggs, Tomato & Side of Fruits.",
+              "price": ""            
+            },
+            {
               "name": "Honey Nut",
               "description": "",
               "ingredients": "Banana slices, candied pecan, and honey whipped cream.",
@@ -238,12 +250,6 @@
           "photo": "img/menu-miscellaneous.jpg",
           "items": [
             {
-              "name": "Prime Rib-eye Steak (7oz)",
-              "description": "",
-              "ingredients": "Served with roasted potatoes & grilled vegetables",
-              "price": ""
-            },
-            {
               "name": "Shrimp & Asparagus Linguini",
               "description": "",
               "ingredients": "Sautéed shrimp, asparagus, & garlic mixed in a spicy asparagus cream sauce.",
@@ -274,9 +280,9 @@
               "price": ""
             },
             {
-              "name": "Baked Sweet Potato (2 halves)",
+              "name": "Brioche Toast",
               "description": "",
-              "ingredients": "1. Spinach, Mushroom, cheddar cheese, bacon 2. Kimchi, cheese, chives",
+              "ingredients": "Brioche Toast Topped Ricotta Cheese with Blue Jam or Citrus Jam",
               "price": ""
             }
           ]
