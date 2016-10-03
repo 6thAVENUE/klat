@@ -124,6 +124,12 @@
               "description": "",
               "ingredients": "Spinach, mushroom, sun-dried tomatoes, chives, and goat cheese served with a side of herb seasoned potatoes.",
               "price": ""
+            },
+            {
+              "name": "Brioche French Toast",
+              "description": "",
+              "ingredients": "Topped with seasonal berries, banana & maple syrup or honey",
+              "price": ""
             }
           ]
         },
@@ -225,12 +231,6 @@
               "name": "Hand Crafted Ice Cream",
               "description": "",
               "ingredients": "Vanilla / chocolate served with fruits",
-              "price": ""
-            },
-            {
-              "name": "Brioche French Toast",
-              "description": "",
-              "ingredients": "Topped with seasonal berries, banana & maple syrup or honey",
               "price": ""
             },
             {
