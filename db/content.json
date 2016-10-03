@@ -358,7 +358,13 @@
           "popup-slug": "freshly-squeezed-orange-juice",
           "photo": "",
           "description": ""
-        }
+        },
+        { 
+          "category": "Freshly Squeezed Grape Fruit Juice", 
+          "popup-slug": "freshly-squeezed-GrapeFruit-juice", 
+          "photo": "", 
+          "description": "" 
+        } 
       ]
     },
     "contact": {
