@@ -78,13 +78,7 @@
               "description": "",
               "ingredients": "Muenster, brie, cheddar cheese on sour dough bread served with tomato soup.",
               "price": ""
-            },
-            {
-              "name": "Turkey Sandwich",
-              "description": "",
-              "ingredients": "Lettuce, muenster cheese, tomato, avocado, aioli on sour dough bread.",
-              "price": ""
-            }
+            }            
           ]
         },
         {
@@ -148,12 +142,6 @@
               "price": ""
             },
             {
-              "name": "Shrimp Bibb Salad",
-              "description": "",
-              "ingredients": "Sautéed shrimp, butter lettuce, shaved radish, chives tossed in green goddess dressing.",
-              "price": ""
-            },
-            {
               "name": "Chicken Caesar Salad",
               "description": "",
               "ingredients": "Little gem lettuce and crostini mixed with house made Caesar dressing.",
@@ -163,18 +151,6 @@
               "name": "Quinoa Salad",
               "description": "",
               "ingredients": "Red quinoa, roasted beet, lacinato kale, dried currant, toasted pecan and lemon vinaigrette dressing.",
-              "price": ""
-            },
-            {
-              "name": "Harvest Salad",
-              "description": "",
-              "ingredients": "Frisee, spinach, seasonal fruits, candied pecan, and blue cheese tossed in a light balsamic vinaigrette dressing.",
-              "price": ""
-            },
-            {
-              "name": "Baby Arugula",
-              "description": "",
-              "ingredients": "Red Onion, cherry tomato, parmesan cheese, anchovy, and crostini tossed with a roasted garlic vinaigrette dressing.",
               "price": ""
             }
           ]
@@ -186,13 +162,7 @@
           "thumbnail": "img/menu_thumbnail_waffles.jpg",
           "button": "Discover More",
           "photo": "img/menu-waffles.jpg",
-          "items": [
-            {
-              "name": "California Waffle",
-              "description": "",
-              "ingredients": "Avocado, Tomaoto, Hard bolied egg slices, topped with Baby argula.",
-              "price": ""
-            },
+          "items": [            
             {
               "name": "Breakfast Waffle",
               "description": "",
@@ -209,12 +179,6 @@
               "name": "Berry Berries",
               "description": "",
               "ingredients": "Fresh seasonal berries with lemon custard and powdered sugar.",
-              "price": ""
-            },
-            {
-              "name": "Healthy Nut",
-              "description": "",
-              "ingredients": "Baby kale, ricotta cheese, dried cranberry, candied pecan topped with honey.",
               "price": ""
             }
           ]
@@ -250,18 +214,6 @@
           "photo": "img/menu-miscellaneous.jpg",
           "items": [
             {
-              "name": "Shrimp & Asparagus Linguini",
-              "description": "",
-              "ingredients": "Sautéed shrimp, asparagus, & garlic mixed in a spicy asparagus cream sauce.",
-              "price": ""
-            },
-            {
-              "name": "Whiting Roe Linguini",
-              "description": "",
-              "ingredients": "Sautéed with garlic and shallots in a white wine sauce.",
-              "price": ""
-            },
-            {
               "name": "Spaghetti Bolognese",
               "description": "",
               "ingredients": "Beef & pork tomato meat sauce, extra virgin olive oil & parmasan cheese.",
@@ -280,9 +232,9 @@
               "price": ""
             },
             {
-              "name": "Brioche Toast",
+              "name": "Blue Jam Toast",
               "description": "",
-              "ingredients": "Brioche Toast Topped Ricotta Cheese with Blue Jam or Citrus Jam",
+              "ingredients": "Brioche Toast Topped Ricotta Cheese with Blue Jam.",
               "price": ""
             }
           ]
