@@ -79,6 +79,12 @@
               "ingredients": "Muenster, brie, cheddar cheese on sour dough bread served with tomato soup.",
               "price": ""
             }            
+            {
+              "name":  "Avocado Toast",
+              "description": "",
+              "ingredients": "Roasted pepper, Avocado, Baby Arugula on Ciabatta bread.",
+              "price": ""
+            }
           ]
         },
         {
@@ -203,6 +209,12 @@
               "ingredients": "Waffle with Fruits, nutella & topped with vanilla ice cream",
               "price": ""
             }
+            {
+              "name": "Creme Brulee",
+              "description": "",
+              "ingredients": "Vanilla custard, Raspberry-yuja, Seasonal fruits.",
+              "price":  ""
+            }
           ]
         },
         {
@@ -238,10 +250,16 @@
               "price": ""
             },
             {
-              "name": "Blue Jam Toast",
+              "name": "Berry Jam Toast",
               "description": "",
-              "ingredients": "Brioche Toast Topped Ricotta Cheese with Blue Jam.",
+              "ingredients": "Brioche Toast Topped Ricotta Cheese with House-made seasonal berry Jam.",
               "price": ""
+            }
+            {
+              "name":  "Bulgogi Burrito",
+              "description": "",
+              "ingredients":  "Prime beef, Green onion, Carrot, Cabbage, Spring Mix, Little gem lettuce, Klat's soy sauce.",
+              "price":  ""
             }
           ]
         }
