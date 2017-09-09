@@ -56,21 +56,9 @@
           "photo": "img/menu-panini.jpg",
           "items": [
             {
-              "name": "Prosciutto Panini",
-              "description": "",
-              "ingredients": "Thin slices of prosciutto, fresh arugula, roasted bell pepper, mozzarella, tomato, and balsamic; grilled & pressed on ciabatta bread served with a light vinaigrette salad.",
-              "price": ""
-            },
-            {
               "name": "Chicken Pesto Panini",
               "description": "",
               "ingredients": "Chicken marinated in pesto sauce, roasted pepper, tomato, butter lettuce, and mozzarella; grilled & pressed on ciabatta bread served with a light vinaigrette salad.",
-              "price": ""
-            },
-            {
-              "name": "BBLT Sandwich",
-              "description": "",
-              "ingredients": "Bacon, brie, lettuce, tomato, roasted bell pepper, and homemade aioli; grilled & on sour dough bread served with a light vinaigrette salad.",
               "price": ""
             },
             {
@@ -96,12 +84,6 @@
           "photo": "img/menu-egg-select.jpg",
           "items": [
             {
-              "name": "Klat Benedict",
-              "description": "",
-              "ingredients": "Our popular Klat Benedict comes with two poached eggs, thin slices of prosciutto, tomato, spinach and hollandaise sauce served with a side of vinaigrette salad.",
-              "price": ""
-            },
-            {
               "name": "Salmon Benedict",
               "description": "",
               "ingredients": "Two poached eggs, gravlax, spinach, red onions, capers, and hollandaise sauce served with a side of vinaigrette salad.",
@@ -120,15 +102,9 @@
               "price": ""
             },
             {
-              "name": "Spinach Omelet",
+              "name": "French Toast",
               "description": "",
-              "ingredients": "Spinach, mushroom, sun-dried tomatoes, chives, and goat cheese served with a side of herb seasoned potatoes.",
-              "price": ""
-            },
-            {
-              "name": "Brioche French Toast",
-              "description": "",
-              "ingredients": "Topped with seasonal berries, banana & maple syrup or honey",
+              "ingredients": "Topped with seasonal berries",
               "price": ""
             }
           ]
@@ -176,12 +152,6 @@
               "price": ""            
             },
             {
-              "name": "Honey Nut",
-              "description": "",
-              "ingredients": "Banana slices, candied pecan, and honey whipped cream.",
-              "price": ""
-            },
-            {
               "name": "Berry Berries",
               "description": "",
               "ingredients": "Fresh seasonal berries with lemon custard and powdered sugar.",
@@ -208,12 +178,6 @@
               "description": "",
               "ingredients": "Waffle with Fruits, nutella & topped with vanilla ice cream",
               "price": ""
-            },
-            {
-              "name": "Creme Brulee",
-              "description": "",
-              "ingredients": "Vanilla custard, Raspberry-yuja, Seasonal fruits.",
-              "price":  ""
             }
           ]
         },
@@ -226,9 +190,9 @@
           "photo": "img/menu-miscellaneous.jpg",
           "items": [
             {
-              "name": "1/2 Pound Burger",
+              "name": "Breakfast Burger",
               "description": "",
-              "ingredients": "Hawaiian bun, Caramelized onion, Muenster cheese klst's special red sauce.",
+              "ingredients": "Brioche bun, sunny-sideup egg, 1/2lb beef patty, Muenster cheese, klst's special red sauce & Roasted potatoes.",
               "price": ""
             },
             {
@@ -244,15 +208,9 @@
               "price": ""
             },
             {
-              "name": "Shrimp & Bacon Fried Rice",
-              "description": "",
-              "ingredients": "Bacon, asparagus, peas, green onion fried with scrambled eggs.",
-              "price": ""
-            },
-            {
               "name": "Berry Jam Toast",
               "description": "",
-              "ingredients": "Brioche Toast Topped Ricotta Cheese with House-made seasonal berry Jam.",
+              "ingredients": "Toast Topped Ricotta Cheese with House-made seasonal berry Jam.",
               "price": ""
             },
             {
